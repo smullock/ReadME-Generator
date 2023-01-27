@@ -1,3 +1,4 @@
+
 function markdown(data) {
     return `
 # ${data.title}
@@ -29,5 +30,4 @@ Any questions , please contact me at the below details
 `
 
 }
-
 module.exports = markdown;
